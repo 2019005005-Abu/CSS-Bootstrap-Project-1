@@ -1,0 +1,27 @@
+/**
+Google fonts Inter::Inter
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+*/
+
+/**
+color Section
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&family=Roboto+Condensed:ital,wght@1,300;1,400&display=swap');
+
+
+/***
+Google fonts DM Sans🧮 
+
+**/
+
+body{
+ font-family: 'Inter', sans-serif;
+ font-weight: 400;
+ font-size: 18px;
+ background-color:#c4defd;
+ color:#fff;
+}
